@@ -7,3 +7,21 @@
 //
 
 #pragma once
+
+#include "./exception.hpp"
+
+namespace zxingpp
+{
+    class reader_exception : public exception
+    {
+    public:
+        reader_exception() _NOEXCEPT : exception()
+        {}
+        
+        reader_exception(const char * message) _NOEXCEPT : exception(message)
+        {}
+        
+        virtual ~reader_exception() _NOEXCEPT
+        {}
+    };
+}
