@@ -6,7 +6,7 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#include "barcode_format.hpp"
+#include "./barcode_format.hpp"
 
 using namespace zxingpp;
 
