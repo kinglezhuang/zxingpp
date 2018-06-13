@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef inverted_luminance_source_hpp
-#define inverted_luminance_source_hpp
-
-#include <stdio.h>
-
-#endif /* inverted_luminance_source_hpp */
+#pragma once

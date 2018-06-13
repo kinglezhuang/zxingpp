@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef multi_format_reader_hpp
-#define multi_format_reader_hpp
-
-#include <stdio.h>
-
-#endif /* multi_format_reader_hpp */
+#pragma once

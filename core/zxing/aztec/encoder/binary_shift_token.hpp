@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef binary_shift_token_hpp
-#define binary_shift_token_hpp
-
-#include <stdio.h>
-
-#endif /* binary_shift_token_hpp */
+#pragma once

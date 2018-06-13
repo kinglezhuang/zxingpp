@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef writer_hpp
-#define writer_hpp
-
-#include <stdio.h>
-
-#endif /* writer_hpp */
+#pragma once

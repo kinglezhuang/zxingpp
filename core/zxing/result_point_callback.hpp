@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef result_point_callback_hpp
-#define result_point_callback_hpp
-
-#include <stdio.h>
-
-#endif /* result_point_callback_hpp */
+#pragma once

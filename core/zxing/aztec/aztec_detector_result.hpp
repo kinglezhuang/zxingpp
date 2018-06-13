@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef aztec_detector_result_hpp
-#define aztec_detector_result_hpp
-
-#include <stdio.h>
-
-#endif /* aztec_detector_result_hpp */
+#pragma once

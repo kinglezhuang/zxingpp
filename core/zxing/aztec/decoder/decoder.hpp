@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef decoder_hpp
-#define decoder_hpp
-
-#include <stdio.h>
-
-#endif /* decoder_hpp */
+#pragma once

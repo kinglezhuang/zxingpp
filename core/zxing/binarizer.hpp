@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef binarizer_hpp
-#define binarizer_hpp
-
-#include <stdio.h>
-
-#endif /* binarizer_hpp */
+#pragma once

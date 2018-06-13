@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef aztec_reader_hpp
-#define aztec_reader_hpp
-
-#include <stdio.h>
-
-#endif /* aztec_reader_hpp */
+#pragma once

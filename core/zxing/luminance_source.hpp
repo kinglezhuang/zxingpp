@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef luminance_source_hpp
-#define luminance_source_hpp
-
-#include <stdio.h>
-
-#endif /* luminance_source_hpp */
+#pragma once

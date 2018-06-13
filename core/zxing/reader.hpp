@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef reader_hpp
-#define reader_hpp
-
-#include <stdio.h>
-
-#endif /* reader_hpp */
+#pragma once

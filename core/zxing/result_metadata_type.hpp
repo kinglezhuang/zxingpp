@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef result_metadata_type_hpp
-#define result_metadata_type_hpp
-
-#include <stdio.h>
-
-#endif /* result_metadata_type_hpp */
+#pragma once

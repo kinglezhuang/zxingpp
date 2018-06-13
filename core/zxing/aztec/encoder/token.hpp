@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef token_hpp
-#define token_hpp
-
-#include <stdio.h>
-
-#endif /* token_hpp */
+#pragma once
