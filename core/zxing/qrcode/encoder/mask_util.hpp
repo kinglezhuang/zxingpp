@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef mask_util_hpp
-#define mask_util_hpp
-
-#include <stdio.h>
-
-#endif /* mask_util_hpp */
+#pragma once

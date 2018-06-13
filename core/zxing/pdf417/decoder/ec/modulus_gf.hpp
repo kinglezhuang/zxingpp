@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef modulus_gf_hpp
-#define modulus_gf_hpp
-
-#include <stdio.h>
-
-#endif /* modulus_gf_hpp */
+#pragma once

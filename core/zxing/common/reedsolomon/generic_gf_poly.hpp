@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef generic_gf_poly_hpp
-#define generic_gf_poly_hpp
-
-#include <stdio.h>
-
-#endif /* generic_gf_poly_hpp */
+#pragma once

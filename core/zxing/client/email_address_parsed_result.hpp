@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef email_address_parsed_result_hpp
-#define email_address_parsed_result_hpp
-
-#include <stdio.h>
-
-#endif /* email_address_parsed_result_hpp */
+#pragma once

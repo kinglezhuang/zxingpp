@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef compaction_hpp
-#define compaction_hpp
-
-#include <stdio.h>
-
-#endif /* compaction_hpp */
+#pragma once

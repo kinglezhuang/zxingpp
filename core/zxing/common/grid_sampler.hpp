@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef grid_sampler_hpp
-#define grid_sampler_hpp
-
-#include <stdio.h>
-
-#endif /* grid_sampler_hpp */
+#pragma once

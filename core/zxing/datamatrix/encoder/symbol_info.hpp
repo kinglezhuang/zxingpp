@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef symbol_info_hpp
-#define symbol_info_hpp
-
-#include <stdio.h>
-
-#endif /* symbol_info_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef default_placement_hpp
-#define default_placement_hpp
-
-#include <stdio.h>
-
-#endif /* default_placement_hpp */
+#pragma once

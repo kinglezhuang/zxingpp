@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef geo_parsed_result_hpp
-#define geo_parsed_result_hpp
-
-#include <stdio.h>
-
-#endif /* geo_parsed_result_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef sms_parsed_result_hpp
-#define sms_parsed_result_hpp
-
-#include <stdio.h>
-
-#endif /* sms_parsed_result_hpp */
+#pragma once

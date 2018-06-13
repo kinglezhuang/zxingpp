@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef uri_result_parser_hpp
-#define uri_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* uri_result_parser_hpp */
+#pragma once

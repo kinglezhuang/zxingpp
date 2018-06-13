@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef high_level_encoder_hpp
-#define high_level_encoder_hpp
-
-#include <stdio.h>
-
-#endif /* high_level_encoder_hpp */
+#pragma once

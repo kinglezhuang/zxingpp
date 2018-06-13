@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef biginteger_utils_hpp
-#define biginteger_utils_hpp
-
-#include <stdio.h>
-
-#endif /* biginteger_utils_hpp */
+#pragma once

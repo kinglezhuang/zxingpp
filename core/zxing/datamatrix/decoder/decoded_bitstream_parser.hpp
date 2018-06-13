@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef decoded_bitstream_parser_hpp
-#define decoded_bitstream_parser_hpp
-
-#include <stdio.h>
-
-#endif /* decoded_bitstream_parser_hpp */
+#pragma once

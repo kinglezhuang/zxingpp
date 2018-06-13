@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef addressbook_au_result_parser_hpp
-#define addressbook_au_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* addressbook_au_result_parser_hpp */
+#pragma once

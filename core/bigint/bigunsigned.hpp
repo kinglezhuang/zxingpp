@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef bigunsigned_hpp
-#define bigunsigned_hpp
-
-#include <stdio.h>
-
-#endif /* bigunsigned_hpp */
+#pragma once

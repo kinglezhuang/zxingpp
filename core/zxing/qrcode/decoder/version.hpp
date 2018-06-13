@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef version_hpp
-#define version_hpp
-
-#include <stdio.h>
-
-#endif /* version_hpp */
+#pragma once

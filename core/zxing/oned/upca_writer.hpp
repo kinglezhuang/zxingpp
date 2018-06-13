@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef upca_writer_hpp
-#define upca_writer_hpp
-
-#include <stdio.h>
-
-#endif /* upca_writer_hpp */
+#pragma once

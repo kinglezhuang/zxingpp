@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef white_rectangle_detector_hpp
-#define white_rectangle_detector_hpp
-
-#include <stdio.h>
-
-#endif /* white_rectangle_detector_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef isbn_parsed_result_hpp
-#define isbn_parsed_result_hpp
-
-#include <stdio.h>
-
-#endif /* isbn_parsed_result_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef data_block_hpp
-#define data_block_hpp
-
-#include <stdio.h>
-
-#endif /* data_block_hpp */
+#pragma once

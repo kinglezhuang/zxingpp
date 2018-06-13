@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef product_parsed_result_hpp
-#define product_parsed_result_hpp
-
-#include <stdio.h>
-
-#endif /* product_parsed_result_hpp */
+#pragma once

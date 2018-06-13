@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef data_character_hpp
-#define data_character_hpp
-
-#include <stdio.h>
-
-#endif /* data_character_hpp */
+#pragma once

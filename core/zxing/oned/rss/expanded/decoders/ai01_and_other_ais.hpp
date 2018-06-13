@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef ai01_and_other_ais_hpp
-#define ai01_and_other_ais_hpp
-
-#include <stdio.h>
-
-#endif /* ai01_and_other_ais_hpp */
+#pragma once

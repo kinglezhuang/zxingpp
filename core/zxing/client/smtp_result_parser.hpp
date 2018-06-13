@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef smtp_result_parser_hpp
-#define smtp_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* smtp_result_parser_hpp */
+#pragma once

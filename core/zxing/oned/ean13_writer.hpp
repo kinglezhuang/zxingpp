@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef ean13_writer_hpp
-#define ean13_writer_hpp
-
-#include <stdio.h>
-
-#endif /* ean13_writer_hpp */
+#pragma once

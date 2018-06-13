@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef barcode_matrix_hpp
-#define barcode_matrix_hpp
-
-#include <stdio.h>
-
-#endif /* barcode_matrix_hpp */
+#pragma once

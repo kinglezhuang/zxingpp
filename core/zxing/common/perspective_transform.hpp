@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef perspective_transform_hpp
-#define perspective_transform_hpp
-
-#include <stdio.h>
-
-#endif /* perspective_transform_hpp */
+#pragma once

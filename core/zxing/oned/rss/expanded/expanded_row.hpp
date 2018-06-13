@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef expanded_row_hpp
-#define expanded_row_hpp
-
-#include <stdio.h>
-
-#endif /* expanded_row_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef symbol_shape_hint_hpp
-#define symbol_shape_hint_hpp
-
-#include <stdio.h>
-
-#endif /* symbol_shape_hint_hpp */
+#pragma once

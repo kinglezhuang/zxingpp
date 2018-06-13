@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef numberlike_array_hpp
-#define numberlike_array_hpp
-
-#include <stdio.h>
-
-#endif /* numberlike_array_hpp */
+#pragma once

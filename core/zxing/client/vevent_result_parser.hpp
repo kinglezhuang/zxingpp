@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef vevent_result_parser_hpp
-#define vevent_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* vevent_result_parser_hpp */
+#pragma once

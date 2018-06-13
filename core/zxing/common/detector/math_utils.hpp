@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef math_utils_hpp
-#define math_utils_hpp
-
-#include <stdio.h>
-
-#endif /* math_utils_hpp */
+#pragma once

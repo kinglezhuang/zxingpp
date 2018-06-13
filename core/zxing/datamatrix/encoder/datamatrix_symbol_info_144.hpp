@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef datamatrix_symbol_info_144_hpp
-#define datamatrix_symbol_info_144_hpp
-
-#include <stdio.h>
-
-#endif /* datamatrix_symbol_info_144_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef monochrome_rectangle_detector_hpp
-#define monochrome_rectangle_detector_hpp
-
-#include <stdio.h>
-
-#endif /* monochrome_rectangle_detector_hpp */
+#pragma once

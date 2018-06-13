@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef vcard_result_parser_hpp
-#define vcard_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* vcard_result_parser_hpp */
+#pragma once

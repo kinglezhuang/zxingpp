@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef tel_result_parser_hpp
-#define tel_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* tel_result_parser_hpp */
+#pragma once

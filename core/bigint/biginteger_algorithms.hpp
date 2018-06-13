@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef biginteger_algorithms_hpp
-#define biginteger_algorithms_hpp
-
-#include <stdio.h>
-
-#endif /* biginteger_algorithms_hpp */
+#pragma once

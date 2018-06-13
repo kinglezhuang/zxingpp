@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef wifi_result_parser_hpp
-#define wifi_result_parser_hpp
-
-#include <stdio.h>
-
-#endif /* wifi_result_parser_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef pdf417_reader_hpp
-#define pdf417_reader_hpp
-
-#include <stdio.h>
-
-#endif /* pdf417_reader_hpp */
+#pragma once

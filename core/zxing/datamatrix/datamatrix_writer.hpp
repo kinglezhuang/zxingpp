@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef datamatrix_writer_hpp
-#define datamatrix_writer_hpp
-
-#include <stdio.h>
-
-#endif /* datamatrix_writer_hpp */
+#pragma once

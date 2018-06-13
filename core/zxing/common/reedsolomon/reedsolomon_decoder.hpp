@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef reedsolomon_decoder_hpp
-#define reedsolomon_decoder_hpp
-
-#include <stdio.h>
-
-#endif /* reedsolomon_decoder_hpp */
+#pragma once

@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef codeword_hpp
-#define codeword_hpp
-
-#include <stdio.h>
-
-#endif /* codeword_hpp */
+#pragma once

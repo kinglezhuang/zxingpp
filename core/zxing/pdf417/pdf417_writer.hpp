@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef pdf417_writer_hpp
-#define pdf417_writer_hpp
-
-#include <stdio.h>
-
-#endif /* pdf417_writer_hpp */
+#pragma once

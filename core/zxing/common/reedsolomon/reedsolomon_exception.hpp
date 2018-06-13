@@ -6,9 +6,4 @@
 //  Copyright © 2018 Kingle Zhuang. All rights reserved.
 //
 
-#ifndef reedsolomon_exception_hpp
-#define reedsolomon_exception_hpp
-
-#include <stdio.h>
-
-#endif /* reedsolomon_exception_hpp */
+#pragma once
